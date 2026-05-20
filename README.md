@@ -1,4 +1,4 @@
-# New-Yorker-case-study
+# Demand Forecasting -case-study
 
 ### Firstly install necessary packages preferably inside a virtual environment
       
